@@ -1,0 +1,202 @@
+# depslib dependency file v1.0
+1685635211 source:c:\users\mateu\onedrive\dokumenty\snake-sfml\board.cpp
+	"Board.h"
+
+1685635311 c:\users\mateu\onedrive\dokumenty\snake-sfml\board.h
+	<iostream>
+	<vector>
+
+1685634917 source:c:\users\mateu\onedrive\dokumenty\snake-sfml\endmenucontroller.cpp
+	"EndMenuController.h"
+
+1685634929 c:\users\mateu\onedrive\dokumenty\snake-sfml\endmenucontroller.h
+	<SFML/Graphics.hpp>
+	"EndMenuText.h"
+	"MainMenuText.h"
+
+1685634908 c:\users\mateu\onedrive\dokumenty\snake-sfml\endmenutext.h
+	<SFML/Graphics.hpp>
+	"Board.h"
+
+1685634884 source:c:\users\mateu\onedrive\dokumenty\snake-sfml\endmenutext.cpp
+	"EndMenuText.h"
+	<fstream>
+
+1685634590 source:c:\users\mateu\onedrive\dokumenty\snake-sfml\mainmenucontroller.cpp
+	"MainMenuController.h"
+
+1685634625 c:\users\mateu\onedrive\dokumenty\snake-sfml\mainmenucontroller.h
+	"Board.h"
+	"MainMenuText.h"
+	"GameText.h"
+	<SFML/Graphics.hpp>
+
+1685634554 c:\users\mateu\onedrive\dokumenty\snake-sfml\mainmenutext.h
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/Graphics/Font.hpp>
+	"Board.h"
+
+1685634459 source:c:\users\mateu\onedrive\dokumenty\snake-sfml\mainmenutext.cpp
+	"MainMenuText.h"
+	<iostream>
+	<sstream>
+	<fstream>
+
+1685621536 source:c:\users\mateu\onedrive\dokumenty\snake-sfml\snake.cpp
+
+1685547174 c:\users\mateu\onedrive\dokumenty\snake-sfml\snake.h
+	<SFML/Graphics.hpp>
+	"Board.h"
+
+1685576141 source:c:\users\mateu\onedrive\dokumenty\snake-sfml\snakecontroller.cpp
+	"SnakeController.h"
+	<Windows.h>
+
+1685576214 c:\users\mateu\onedrive\dokumenty\snake-sfml\snakecontroller.h
+	<SFML/Graphics.hpp>
+	"SnakeText.h"
+	"Board.h"
+	"MainMenuText.h"
+
+1685578015 c:\users\mateu\onedrive\dokumenty\snake-sfml\snaketext.h
+	<SFML/Graphics.hpp>
+	"Board.h"
+
+1685577611 source:c:\users\mateu\onedrive\dokumenty\snake-sfml\snaketext.cpp
+	"SnakeText.h"
+	<Windows.h>
+	<SFML/Graphics/Texture.hpp>
+
+1685634827 source:c:\users\mateu\onedrive\dokumenty\snake-sfml\game.cpp
+	"Game.h"
+
+1685634842 c:\users\mateu\onedrive\dokumenty\snake-sfml\game.h
+	"MainMenuController.h"
+	"GameController.h"
+	"EndMenuController.h"
+	"Board.h"
+
+1685635335 source:c:\users\mateu\onedrive\dokumenty\snake-sfml\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	"Board.h"
+	"MainMenuText.h"
+	"GameText.h"
+	"EndMenuText.h"
+	"MainMenuController.h"
+	"GameController.h"
+	"EndMenuController.h"
+	"Game.h"
+
+1685634806 c:\users\mateu\onedrive\dokumenty\snake-sfml\gamecontroller.h
+	<SFML/Graphics.hpp>
+	"GameText.h"
+	"Board.h"
+	"MainMenuText.h"
+
+1685634748 c:\users\mateu\onedrive\dokumenty\snake-sfml\gametext.h
+	<SFML/Graphics.hpp>
+	"Board.h"
+	"MainMenuController.h"
+
+1685634775 source:c:\users\mateu\onedrive\dokumenty\snake-sfml\gamecontroller.cpp
+	"GameController.h"
+	<Windows.h>
+
+1685634686 source:c:\users\mateu\onedrive\dokumenty\snake-sfml\gametext.cpp
+	"GameText.h"
+	<Windows.h>
+	<SFML/Graphics/Texture.hpp>
+
+1684080011 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\board.cpp
+	"Board.h"
+
+1684080111 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\board.h
+	<iostream>
+	<vector>
+
+1684079717 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\endmenucontroller.cpp
+	"EndMenuController.h"
+
+1684079729 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\endmenucontroller.h
+	<SFML/Graphics.hpp>
+	"EndMenuText.h"
+	"MainMenuText.h"
+
+1684079708 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\endmenutext.h
+	<SFML/Graphics.hpp>
+	"Board.h"
+
+1684079354 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\mainmenutext.h
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/Graphics/Font.hpp>
+	"Board.h"
+
+1684079684 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\endmenutext.cpp
+	"EndMenuText.h"
+	<fstream>
+
+1684108517 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\game.cpp
+	"Game.h"
+
+1684108033 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\game.h
+	"MainMenuController.h"
+	"GameController.h"
+	"EndMenuController.h"
+	"Board.h"
+
+1684075005 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\mainmenucontroller.h
+	"Board.h"
+	"MainMenuText.h"
+	"GameText.h"
+	<SFML/Graphics.hpp>
+
+1684079548 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\gametext.h
+	<SFML/Graphics.hpp>
+	"Board.h"
+	"MainMenuController.h"
+
+1684079606 c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\gamecontroller.h
+	<SFML/Graphics.hpp>
+	"GameText.h"
+	"Board.h"
+	"MainMenuText.h"
+
+1684079575 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\gamecontroller.cpp
+	"GameController.h"
+	<Windows.h>
+
+1686145240 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\gametext.cpp
+	"GameText.h"
+	<Windows.h>
+	<SFML/Graphics/Texture.hpp>
+
+1684108522 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\mainmenucontroller.cpp
+	"MainMenuController.h"
+
+1684079259 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\mainmenutext.cpp
+	"MainMenuText.h"
+	<iostream>
+	<sstream>
+	<fstream>
+
+1684096320 source:c:\users\mateu\onedrive\pulpit\obiektowe zadnaia\snake-sfml\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	"Board.h"
+	"MainMenuText.h"
+	"GameText.h"
+	"EndMenuText.h"
+	"MainMenuController.h"
+	"GameController.h"
+	"EndMenuController.h"
+	"Game.h"
+
